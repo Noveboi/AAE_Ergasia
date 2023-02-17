@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thema1", "..\battleships_officia\battleships_official2\Thema1.csproj", "{4554CFA4-048D-4CA1-AB62-BDB9AFDF112A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thema1", "battleships_official2\Thema1.csproj", "{4554CFA4-048D-4CA1-AB62-BDB9AFDF112A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thema2", "..\MainMenuPrototype\MainMenuPrototype\Thema2.csproj", "{4E44951A-12DF-4A12-B291-6A03DF1B619D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thema2", "MainMenuPrototype\Thema2.csproj", "{4E44951A-12DF-4A12-B291-6A03DF1B619D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thema3", "..\Thema3\Thema3\Thema3.csproj", "{EB295605-D5CE-43AF-9951-0ED591548D20}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thema3", "Thema3\Thema3.csproj", "{EB295605-D5CE-43AF-9951-0ED591548D20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
